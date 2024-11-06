@@ -233,7 +233,7 @@ var list_products = [
     "name": "iPhone 8 Plus 64GB",
     "company": "Apple",
     "img": "https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-600x600.jpg",
-    "price": "20.990.000",
+    "price": "6.990.000",
     "star": 5,
     "rateCount": 230,
     "promo": {
@@ -256,7 +256,7 @@ var list_products = [
     "name": "iPhone 8 Plus 256GB",
     "company": "Apple",
     "img": "https://cdn.tgdd.vn/Products/Images/42/114114/iphone-8-plus-256gb-red-600x600.jpg",
-    "price": "25.790.000",
+    "price": "6.790.000",
     "star": 5,
     "rateCount": 16,
     "promo": {
